@@ -1,0 +1,29 @@
+.title {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+color:whitesmoke;
+padding-top: 50px;
+}
+
+body, html {
+    height: 100%;
+  }
+  
+  .container {
+  
+    background-image: url("Images/orion.jpg");
+    height: 100%;
+  
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px ;
+    padding: 0px ;
+  }
+
+  .button {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }
+
